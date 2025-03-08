@@ -4,7 +4,7 @@ This assignment covers 2 numerical methods coded in Python:
 - Runge-Kutta Method
 
 ## Instructions
-- Navigate to the folder containing `assignment_2.py` file:  
+- Navigate to the folder containing `assignment_3.py` file:  
    ```bash
    cd cot-4500-as3/src/main
 
